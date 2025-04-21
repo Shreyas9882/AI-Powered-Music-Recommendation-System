@@ -49,3 +49,12 @@ The goal of this project is to create a web application that classifies music in
 - **Chunk-Based Audio Processing**: Ensures that predictions are not biased by a single part of the song and gives a more holistic view of the genre.
 - **Genre Voting Mechanism**: Selecting the most frequent prediction from all chunks increases reliability.
 - **Cluster-Based Recommendation**: Leveraging clustering allows recommendations to align better with sonic characteristics rather than just genre labels.
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/5bc64798-f120-40e1-ab3a-5fc46600c312" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e8f5fa16-9b8a-4d15-86ca-f5e2236d31c3" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c2436b12-e1d9-45a0-86ab-374e2722750a" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/22ee5f3f-beca-41de-be45-d00ddf2d856d" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2cc70900-a426-4825-a756-aa2d02c49d8f" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b27a3d3a-463d-4b23-8ffc-1c4866a31bc8" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/dad7b311-1c8e-45e8-9b5c-120df5ba6e21" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/26d4b767-49d1-43c4-97a6-b8c7f9002434" />
