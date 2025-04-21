@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "music-genre-classification"
+version = "0.1.0"
+description = "AI-powered Streamlit app for predicting music genres using deep learning and mel-spectrograms."
+authors = ["Sameeksha Shekhar <your.email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+streamlit = "^1.32.0"
+tensorflow = "^2.15.0"
+numpy = "^1.24.0"
+librosa = "^0.10.1"
+matplotlib = "^3.8.0"
+scikit-learn = "^1.3.0"
+soundfile = "^0.12.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
